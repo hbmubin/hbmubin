@@ -1,5 +1,5 @@
 <p align="center">
- <img  width="800" height="400" src="https://github.com/hbmubin/banner.gif">
+ <img  width="800" height="400" src="https://github.com/hbmubin/banner">
 </p>
 ## Hi there 👋
 
