@@ -7,7 +7,7 @@ Hello! I am Hasanul Banna, a skilled MERN stack developer with extensive experie
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hbmubin&theme=dark&hide_border=true&border_radius=&mode=weekly&background=45%2C45FFC7%#FFFCB2&ring=F3F3F3&fire=DEF3D7&border=F3F3F3&currStreakNum=F3F3F3&stroke=F3F3F3&currStreakLabel=DEF3D7" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hbmubin&theme=dark&hide_border=true&border_radius=&mode=weekly&background=45%2C45FFC7%2CFFFCB2&ring=F3F3F3&fire=DEF3D7&border=F3F3F3&currStreakNum=F3F3F3&stroke=F3F3F3&currStreakLabel=DEF3D7" alt="GitHub Streak" />
 
 <!--
 **hbmubin/hbmubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
