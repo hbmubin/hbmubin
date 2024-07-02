@@ -8,7 +8,7 @@ Hello! I am Hasanul Banna, a skilled MERN stack developer with extensive experie
 <br/>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=hbmubin&theme=dark&hide_border=true&border_radius=&mode=weekly&background=45%2C45FFC7%2CFFFCB2&ring=7B7B7B&fire=7B7B7B&border=7B7B7B&currStreakNum=7B7B7B&stroke=7B7B7B&currStreakLabel=7B7B7B&sideNums=7B7B7B&sideLabels=7B7B7B&dates=7B7B7B" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=hbmubin&theme=dark&hide_border=true&border_radius=&mode=weekly&background=45%2C45FFC7%2CFFFCB2&ring=5A5A5A&fire=5A5A5A&border=5A5A5A&currStreakNum=5A5A5A&stroke=5A5A5A&currStreakLabel=5A5A5A&sideNums=5A5A5A&sideLabels=5A5A5A&dates=5A5A5A" alt="GitHub Streak" />
 </p>
 
 <!--
