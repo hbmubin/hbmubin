@@ -1,7 +1,7 @@
 <a href="https://github.com/hbmubin" align="center">
  <img  width="100%" src="https://github.com/hbmubin/hbmubin/blob/main/banner.gif">
 </a>
-## About Me👋
+##About Me 👋
 
 <!--
 **hbmubin/hbmubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
