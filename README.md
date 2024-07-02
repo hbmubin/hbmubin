@@ -6,7 +6,7 @@
 Hello! I am Hasanul Banna, a skilled MERN stack developer with extensive experience in building dynamic and responsive web applications. Proficient in MongoDB, Express.js, React.js, and Node.js, with a strong understanding of JavaScript and RESTful APIs. Adept at developing full-stack applications from scratch, implementing robust back-end solutions, and creating intuitive front-end interfaces. Passionate about clean code, performance optimization, and continuous learning of new technologies to deliver high-quality software solutions.
 
 <br/>
- https://streak-stats.demolab.com/?user=hbmubin)](https://git.io/streak-stats
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hbmubin&theme=dark&hide_border=true&border_radius=&mode=weekly&background=45%2C45FFC7%2C45FFC7&ring=F3F3F3&fire=DEF3D7&border=F3F3F3&currStreakNum=F3F3F3&stroke=F3F3F3&currStreakLabel=DEF3D7" alt="GitHub Streak" /></a>
 
 <!--
 **hbmubin/hbmubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
