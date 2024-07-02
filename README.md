@@ -3,7 +3,7 @@
 </a>
 
 ## 🚀 About Me
-I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP. 
+Hello! I am Hasanul Banna, a skilled MERN stack developer with extensive experience in building dynamic and responsive web applications. Proficient in MongoDB, Express.js, React.js, and Node.js, with a strong understanding of JavaScript and RESTful APIs. Adept at developing full-stack applications from scratch, implementing robust back-end solutions, and creating intuitive front-end interfaces. Passionate about clean code, performance optimization, and continuous learning of new technologies to deliver high-quality software solutions.
 
 <!--
 **hbmubin/hbmubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
