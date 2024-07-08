@@ -5,7 +5,7 @@
 ## 🚀 About Me
 Hello! I am Hasanul Banna, a skilled MERN stack developer with extensive experience building dynamic and responsive web applications. Proficient in MongoDB, Express.js, React.js, and Node.js, with a strong understanding of JavaScript and RESTful APIs. Adept at developing full-stack applications from scratch, implementing robust back-end solutions, and creating intuitive front-end interfaces. Passionate about clean code, performance optimization, and continuous learning of new technologies to deliver high-quality software solutions.
 </br>
-check me out at <a href="hasanulbannamubin01@gmail.com">hasanulbannamubin01@gmail.com</a>
+Feel free to reach out via email <a href="hasanulbannamubin01@gmail.com">hasanulbannamubin01@gmail.com</a>
 
 <br/>
 
