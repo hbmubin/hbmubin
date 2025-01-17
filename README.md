@@ -13,7 +13,7 @@ Feel free to reach out via email <a href="hasanulbannamubin01@gmail.com">hasanul
 
 <br />
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=hbmubin&theme=dark&hide_border=true&mode=weekly&background=45,45FFC7,FFFCB2&ring=5A5A5A&fire=5A5A5A&currStreakNum=5A5A5A&stroke=5A5A5A&currStreakLabel=5A5A5A&sideNums=5A5A5A&sideLabels=5A5A5A&dates=5A5A5A" alt="GitHub Streak" />
+<img width="100%" src="https://streak-stats.demolab.com?user=hbmubin&theme=dark&hide_border=true&mode=weekly&background=45,45FFC7,FFFCB2&ring=5A5A5A&fire=5A5A5A&currStreakNum=5A5A5A&stroke=5A5A5A&currStreakLabel=5A5A5A&sideNums=5A5A5A&sideLabels=5A5A5A&dates=5A5A5A" alt="GitHub Streak" />
 </p>
 
 ## 👨‍💻 Familiar with 
